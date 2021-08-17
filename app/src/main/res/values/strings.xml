@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">JavaMap</string>
+    <string name="title_activity_maps">Map</string>
+</resources>
